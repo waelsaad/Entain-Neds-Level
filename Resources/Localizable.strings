@@ -1,0 +1,20 @@
+//
+//  Localizable.swift
+//  Neds
+//
+//  Created by Wael Saad on 19/3/2024.
+//  Copyright © 2024 NetTrinity. All rights reserved.
+//
+
+// MARK: Global Strings
+
+"join_label" = "Join";
+"login_label" = "Logic";
+"next_up_intl" = "INTL";
+"loading_label" = "Loading...";
+"try_again_label" = "Try Again";
+
+"error_no_connection" = "No Connection";
+"error_generic_description" = "Having trouble loading that one...";
+
+"error_no_races" = "No races to display, consider changing your filters";

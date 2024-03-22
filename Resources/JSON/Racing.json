@@ -1,0 +1,419 @@
+{
+  "status": 200,
+  "data": {
+    "next_to_go_ids": [
+      "aa4c1dce-2bd9-498e-b329-bb8c20567a06",
+      "0e585683-ec46-4caa-b45c-0682a5f4bba9",
+      "97804701-78c1-45c6-a8e1-e748412b99e5",
+      "b6e71bf0-52d6-4986-aee1-26bd1191c1fd",
+      "f6591aae-19cb-475d-a414-dcd4912efcdb",
+      "3467c00b-256f-4555-88ea-b34efe77e01f",
+      "cf923440-c20f-41cd-bc45-a5da45f1f1f5",
+      "d8b9c8f7-79cb-4583-b2e1-0a3cb21707bd",
+      "7b4ea0dd-0bc5-4d61-b4ed-d97be3ecd24a",
+      "11243bec-634b-4f7c-9feb-dde5005b09db"
+    ],
+    "race_summaries": {
+      "0e585683-ec46-4caa-b45c-0682a5f4bba9": {
+        "race_id": "0e585683-ec46-4caa-b45c-0682a5f4bba9",
+        "race_name": "Tasbreeders Night 5Th April Plate (C1)",
+        "race_number": 4,
+        "meeting_id": "ee3656cc-8c7e-4e01-a4eb-8344de47eddb",
+        "meeting_name": "Launceston",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1710489900
+        },
+        "race_form": {
+          "distance": 1600,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "066119d8-3b74-11e8-a5eb-06a5c6d9a756",
+            "name": "Soft5",
+            "short_name": "soft5"
+          },
+          "track_condition_id": "066119d8-3b74-11e8-a5eb-06a5c6d9a756",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "CAPTAIN TAZ (2) missed a nose at Hobart as favourite and then belted the Maidens there by 3L racing forward. He was backed off the map and is a promising sort who can go on with it over the longer trip. VAN SCOTIA (8) led and won his Maiden here comfortably for the Victorian barn. Has just missed at Hamilton prior and will use the rail. The mile holds no fears and she's feared. STEELE MY SUNSHINE (7) went close here first-up in this grade. She has more to give and should see out the extra metres. Pushed forward from an awkward barrier her latest and is likely to do the same here. ADA WAY (1) deserved the Maiden win here. Tackles the mile for the first time in 13 starts and maps for a soft run. In good hands and will get every chance to go back-to-back.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Launceston\",\"state\":\"TAS\",\"country\":\"AUS\",\"number\":4,\"race_name\":\"Tasbreeders Night 5Th April Plate (C1)\",\"time\":\"2024-03-15T08:05:00Z\",\"class\":\"CL1 SW\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":25000},\"rail_position\":\"True. (Pent: 4.58).\",\"track_direction\":\"Left\",\"track_surface\":\"Turf\",\"group\":\"\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "CAPTAIN TAZ (2) missed a nose at Hobart as favourite and then belted the Maidens there by 3L racing forward. He was backed off the map and is a promising sort who can go on with it over the longer trip. VAN SCOTIA (8) led and won his Maiden here comfortably for the Victorian barn. Has just missed at Hamilton prior and will use the rail. The mile holds no fears and she's feared. STEELE MY SUNSHINE (7) went close here first-up in this grade. She has more to give and should see out the extra metres. Pushed forward from an awkward barrier her latest and is likely to do the same here. ADA WAY (1) deserved the Maiden win here. Tackles the mile for the first time in 13 starts and maps for a soft run. In good hands and will get every chance to go back-to-back."
+        },
+        "venue_id": "377c03a4-6154-4b32-b8f0-ecfc8a6869ef",
+        "venue_name": "Launceston",
+        "venue_state": "TAS",
+        "venue_country": "AUS"
+      },
+      "11243bec-634b-4f7c-9feb-dde5005b09db": {
+        "race_id": "11243bec-634b-4f7c-9feb-dde5005b09db",
+        "race_name": "Ladbrokes Blackbook Up To Nr70 Pace",
+        "race_number": 1,
+        "meeting_id": "020f5d2a-e8cf-4a4e-bffa-9f2a5ad3ba11",
+        "meeting_name": "Albion Park",
+        "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+        "advertised_start": {
+          "seconds": 1710490680
+        },
+        "race_form": {
+          "distance": 1660,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "race_comment": "PLAYA BLANCA (10) had been racing well before a deserved win last time, getting home by a nose at this circuit and distance. No favours expected from this draw but she is reliable. GIRL FROM ROSEDALE (1) has been consistent of late with a string of top four finishes since winning here. Led from this same draw last time and stuck on to be beaten just 3 metres into fourth. Can give a big sight. THE BEAUDEN BLUES (9) didn't do a bad job last time and had put together a string of wins or placings before that. Major player. Last season's Oaks winner TORQUE LIKE MOTION (6) can improve second up.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Albion Park\",\"state\":\"QLD\",\"country\":\"AUS\",\"number\":1,\"race_name\":\"Ladbrokes Blackbook Up To Nr70 Pace\",\"time\":\"2024-03-15T08:18:00Z\",\"class\":\"NR up to 70\",\"start_type\":\"Mobile\",\"prizemonies\":{\"1st\":3755,\"2nd\":1073,\"3rd\":536,\"4th\":358,\"5th\":238,\"total_value\":6260},\"rail_position\":\"\",\"track_direction\":\"Right\",\"track_surface\":\"All Weather\",\"group\":\"\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "PLAYA BLANCA (10) had been racing well before a deserved win last time, getting home by a nose at this circuit and distance. No favours expected from this draw but she is reliable. GIRL FROM ROSEDALE (1) has been consistent of late with a string of top four finishes since winning here. Led from this same draw last time and stuck on to be beaten just 3 metres into fourth. Can give a big sight. THE BEAUDEN BLUES (9) didn't do a bad job last time and had put together a string of wins or placings before that. Major player. Last season's Oaks winner TORQUE LIKE MOTION (6) can improve second up."
+        },
+        "venue_id": "41036055-b448-4471-b64b-518543066fd1",
+        "venue_name": "Albion Park",
+        "venue_state": "QLD",
+        "venue_country": "AUS"
+      },
+      "3467c00b-256f-4555-88ea-b34efe77e01f": {
+        "race_id": "3467c00b-256f-4555-88ea-b34efe77e01f",
+        "race_name": "The Beckley Centre Geelong",
+        "race_number": 1,
+        "meeting_id": "11e2e636-590d-429a-be5f-7d0d9aad0fee",
+        "meeting_name": "Geelong",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1710490320
+        },
+        "race_form": {
+          "distance": 400,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "18c6f07a-b37b-11e7-aabe-061a47531548",
+            "name": "Cloudy",
+            "short_name": "cloudy",
+            "icon_uri": "Cloudy"
+          },
+          "weather_id": "18c6f07a-b37b-11e7-aabe-061a47531548",
+          "race_comment": "BLACKPOOL RANGER (1) is on debut without trialling for this. Expected to measure up. BLAZER BALE (6) comes off an average run last start when fourth at this track over 460m behind Willow Bale (26.27). Strong form has emerged from his last run. Cannot be left out. GROVER BALE (8) will need a clean break from an outside box at his debut. Expected to play a major role. HARAJUKU LASS (5) makes debut for the Jason Sharp kennel. No trial form. Profiles nicely and can feature in the finish.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Geelong\",\"state\":\"VIC\",\"country\":\"AUS\",\"number\":1,\"race_name\":\"The Beckley Centre Geelong\",\"time\":\"2024-03-15T08:12:00Z\",\"class\":\"Maiden\",\"start_type\":\"\",\"prizemonies\":{\"1st\":1680,\"2nd\":520,\"3rd\":260,\"4th\":75,\"5th\":0,\"6th\":0,\"7th\":0,\"8th\":0,\"total_value\":2535},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "BLACKPOOL RANGER (1) is on debut without trialling for this. Expected to measure up. BLAZER BALE (6) comes off an average run last start when fourth at this track over 460m behind Willow Bale (26.27). Strong form has emerged from his last run. Cannot be left out. GROVER BALE (8) will need a clean break from an outside box at his debut. Expected to play a major role. HARAJUKU LASS (5) makes debut for the Jason Sharp kennel. No trial form. Profiles nicely and can feature in the finish."
+        },
+        "venue_id": "1bf23035-5c0a-47e5-a3cd-189187c1e835",
+        "venue_name": "Geelong",
+        "venue_state": "VIC",
+        "venue_country": "AUS"
+      },
+      "7b4ea0dd-0bc5-4d61-b4ed-d97be3ecd24a": {
+        "race_id": "7b4ea0dd-0bc5-4d61-b4ed-d97be3ecd24a",
+        "race_name": "Ladbroke It! Maiden",
+        "race_number": 2,
+        "meeting_id": "33931103-b337-4f14-99a2-16198922a4ce",
+        "meeting_name": "Wagga",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1710490560
+        },
+        "race_form": {
+          "distance": 400,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "e59d2021-a879-11e7-99a6-06918c628bb8",
+            "name": "Clear",
+            "short_name": "clear",
+            "icon_uri": "Clear"
+          },
+          "weather_id": "e59d2021-a879-11e7-99a6-06918c628bb8",
+          "race_comment": "ALE (1) is a 10 start maiden who has placed five times, the latest finishing in the minor money again when third at Temora. Has hit the frame at the last two starts. Can find winning form. BREAD (8) has an honest record despite remaining a maiden and is long overdue for a win, having placed nine of 14 career runs. Has placed at his last six starts now. Well placed and gets his chance. APPLE PIE (2) turned in a plain performance last time when sixth at Nowra over 365m behind Cumbria Pete (21.81) in a Maiden. Should be about the money. HIGH CARD (3) is a chance after seven-and-a-half weeks.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Wagga\",\"state\":\"NSW\",\"country\":\"AUS\",\"number\":2,\"race_name\":\"Ladbroke It! Maiden\",\"time\":\"2024-03-15T08:16:00Z\",\"class\":\"Maiden\",\"start_type\":\"\",\"prizemonies\":{\"1st\":1200,\"2nd\":340,\"3rd\":250,\"4th\":100,\"total_value\":1890},\"rail_position\":\"\",\"track_direction\":\"Right\",\"track_surface\":\"All Weather\",\"group\":\"\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "ALE (1) is a 10 start maiden who has placed five times, the latest finishing in the minor money again when third at Temora. Has hit the frame at the last two starts. Can find winning form. BREAD (8) has an honest record despite remaining a maiden and is long overdue for a win, having placed nine of 14 career runs. Has placed at his last six starts now. Well placed and gets his chance. APPLE PIE (2) turned in a plain performance last time when sixth at Nowra over 365m behind Cumbria Pete (21.81) in a Maiden. Should be about the money. HIGH CARD (3) is a chance after seven-and-a-half weeks."
+        },
+        "venue_id": "e6e6e035-95a8-47e4-a8d0-b61d59e02e51",
+        "venue_name": "Wagga",
+        "venue_state": "NSW",
+        "venue_country": "AUS"
+      },
+      "97804701-78c1-45c6-a8e1-e748412b99e5": {
+        "race_id": "97804701-78c1-45c6-a8e1-e748412b99e5",
+        "race_name": "South Newcastle Leagues Club Pace",
+        "race_number": 3,
+        "meeting_id": "407dca8a-8a2e-4e98-bc73-2b6c0598fccc",
+        "meeting_name": "Newcastle",
+        "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+        "advertised_start": {
+          "seconds": 1710490080
+        },
+        "race_form": {
+          "distance": 2030,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "1db9cab0-b747-11ea-80cf-6a390f79827e",
+            "name": "Fast",
+            "short_name": "fast"
+          },
+          "track_condition_id": "1db9cab0-b747-11ea-80cf-6a390f79827e",
+          "weather": {
+            "id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+            "name": "OCAST",
+            "short_name": "ocast",
+            "icon_uri": "OCAST"
+          },
+          "weather_id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+          "race_comment": "SAIFA (4) won at this track two runs ago before having his colours lowered at his latest appearance over 1609m here beaten 4.5 metres. Meets a comparable field and he can bounce back straight away. OUR PRINCESS KENNEDY (8) finished fifth last start over 1720m at Penrith, beaten 7 metres, after a good win there the run prior. Good enough to win a race of this calibre. BAT MATSON (7) is heading the right way, improving last time out to finish second at this track over 1609m. Genuine threat. FLYING SHARD (3) should not have any excuses from the favourable draw and looks one for the exotics players.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Newcastle\",\"state\":\"NSW\",\"country\":\"AUS\",\"number\":3,\"race_name\":\"South Newcastle Leagues Club Pace\",\"time\":\"2024-03-15T08:08:00Z\",\"class\":\"NR up to 52\",\"start_type\":\"Mobile\",\"prizemonies\":{\"1st\":5184,\"2nd\":1632,\"3rd\":1056,\"4th\":576,\"5th\":384,\"total_value\":9792},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "SAIFA (4) won at this track two runs ago before having his colours lowered at his latest appearance over 1609m here beaten 4.5 metres. Meets a comparable field and he can bounce back straight away. OUR PRINCESS KENNEDY (8) finished fifth last start over 1720m at Penrith, beaten 7 metres, after a good win there the run prior. Good enough to win a race of this calibre. BAT MATSON (7) is heading the right way, improving last time out to finish second at this track over 1609m. Genuine threat. FLYING SHARD (3) should not have any excuses from the favourable draw and looks one for the exotics players."
+        },
+        "venue_id": "3318ec6a-3831-43b2-97b1-5737d140d64b",
+        "venue_name": "Newcastle",
+        "venue_state": "NSW",
+        "venue_country": "AUS"
+      },
+      "aa4c1dce-2bd9-498e-b329-bb8c20567a06": {
+        "race_id": "aa4c1dce-2bd9-498e-b329-bb8c20567a06",
+        "race_name": "Dave Ferriman Thanks For 45 Years Of Service Pce",
+        "race_number": 10,
+        "meeting_id": "a421dfd2-70e9-486e-838d-c7ec11ba37ba",
+        "meeting_name": "Addington",
+        "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+        "advertised_start": {
+          "seconds": 1710489900
+        },
+        "race_form": {
+          "distance": 2000,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "06ee9afc-025e-11ec-a4cc-4a1fbbf2f065",
+            "name": "SHWRY",
+            "short_name": "shwry",
+            "icon_uri": "SHWRY"
+          },
+          "weather_id": "06ee9afc-025e-11ec-a4cc-4a1fbbf2f065",
+          "race_comment": "AUDACITY (7) finished third last start over 2400m at Ashburton, beaten 1.5 metres, after scoring at the previous appearance over 2600m at Rangiora. He is in a good space and can take this out. BOUDICA (1) drew wide last start and was safely held, beaten 10 metres into fifth at Reefton over 2500m. Finds a tougher race but from a far better starting position a big run is on the cards. CHASE THE STARS (6) is on the radar after his last-start fourth over 1980m at this track two weeks ago. MASTERLOU (2) should not have any excuses from the favourable draw and has solid each-way claims.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Addington\",\"state\":\"NZ\",\"country\":\"NZ\",\"number\":10,\"race_name\":\"Dave Ferriman Thanks For 45 Years Of Service Pce\",\"time\":\"2024-03-15T08:05:00Z\",\"class\":\"UP TO \\u0026 INCLUDING R54\",\"start_type\":\"Standing\",\"prizemonies\":{\"total_value\":15887},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "AUDACITY (7) finished third last start over 2400m at Ashburton, beaten 1.5 metres, after scoring at the previous appearance over 2600m at Rangiora. He is in a good space and can take this out. BOUDICA (1) drew wide last start and was safely held, beaten 10 metres into fifth at Reefton over 2500m. Finds a tougher race but from a far better starting position a big run is on the cards. CHASE THE STARS (6) is on the radar after his last-start fourth over 1980m at this track two weeks ago. MASTERLOU (2) should not have any excuses from the favourable draw and has solid each-way claims."
+        },
+        "venue_id": "91a977e1-b438-4534-b138-3cb24536d081",
+        "venue_name": "Addington",
+        "venue_state": "NZ",
+        "venue_country": "NZ"
+      },
+      "b6e71bf0-52d6-4986-aee1-26bd1191c1fd": {
+        "race_id": "b6e71bf0-52d6-4986-aee1-26bd1191c1fd",
+        "race_name": "Race 12 - 1400",
+        "race_number": 12,
+        "meeting_id": "fdd19fc6-be77-4d44-8d04-eb8447df8c95",
+        "meeting_name": "Kawasaki",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1710490200
+        },
+        "race_form": {
+          "distance": 1400,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "race_comment": "BURGUNDY (7) led to the turn at this track and trip last time out but faded to finish ninth. Should park just off the speed. Race fit now and finds a suitable assignment. Can give a great sight. OCEAN WIND (8) made late ground and finished 6 lengths from the winner in sixth last start over this distance at this track, an improvement on her seventh at this track the run before. Well placed and there is no reason she cannot find winning ways. GOLD FLAVOR (10) finished eighth at this track and distance at her last appearance six months ago. Has found a suitable race and is worth including. SEQUOIA (2) was beaten 8 lengths into eighth at this track last time out. Finds a nice race and can atone.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Kawasaki\",\"state\":\"JPN\",\"country\":\"JPN\",\"number\":12,\"race_name\":\"Race 12 - 1400\",\"time\":\"2024-03-15T08:10:00Z\",\"class\":\"C3\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":15548},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"Dirt\",\"group\":\"\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "BURGUNDY (7) led to the turn at this track and trip last time out but faded to finish ninth. Should park just off the speed. Race fit now and finds a suitable assignment. Can give a great sight. OCEAN WIND (8) made late ground and finished 6 lengths from the winner in sixth last start over this distance at this track, an improvement on her seventh at this track the run before. Well placed and there is no reason she cannot find winning ways. GOLD FLAVOR (10) finished eighth at this track and distance at her last appearance six months ago. Has found a suitable race and is worth including. SEQUOIA (2) was beaten 8 lengths into eighth at this track last time out. Finds a nice race and can atone."
+        },
+        "venue_id": "54fd43ae-62e7-4fff-a114-1ebd5378e3a7",
+        "venue_name": "Kawasaki",
+        "venue_state": "JPN",
+        "venue_country": "JPN"
+      },
+      "cf923440-c20f-41cd-bc45-a5da45f1f1f5": {
+        "race_id": "cf923440-c20f-41cd-bc45-a5da45f1f1f5",
+        "race_name": "Southside Racing Mdn Plate",
+        "race_number": 4,
+        "meeting_id": "c9b84382-006b-4188-a55e-85ccc98eb55a",
+        "meeting_name": "Pakenham",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1710490500
+        },
+        "race_form": {
+          "distance": 1600,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "11d7e662-487a-11ea-9d54-4689356d4521",
+            "name": "Good4",
+            "short_name": "good4"
+          },
+          "track_condition_id": "11d7e662-487a-11ea-9d54-4689356d4521",
+          "weather": {
+            "id": "e59d2021-a879-11e7-99a6-06918c628bb8",
+            "name": "Clear",
+            "short_name": "clear",
+            "icon_uri": "Clear"
+          },
+          "weather_id": "e59d2021-a879-11e7-99a6-06918c628bb8",
+          "race_comment": "THOUGHTFUL WOMAN (3) was good in the future stars series final here over 1400m last start, beaten 1.5 lengths into fifth and hitting the line well on that occasion. She looks ideally suited out to a mile now and can break through. FINALE (5) was good here over 1400m as favourite first up before an unlucky run at Sandown-Hillside. Forgive that, she can win. GREY ICE (7) has been good in two runs back from a spell and her breeding suggests this trip will be ideal. Lightly raced and looks a great chance up to the mile. ELEGANCIA (4) has placed in both runs to date at country level. Suited to this trip now and has some upside. ALMA ROUGE (1) can improve up in trip.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Pakenham\",\"state\":\"VIC\",\"country\":\"AUS\",\"number\":4,\"race_name\":\"Southside Racing Mdn Plate\",\"time\":\"2024-03-15T08:15:00Z\",\"class\":\"MDN SW\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":40000},\"rail_position\":\"True Entire Circuit.\",\"track_direction\":\"Left\",\"track_surface\":\"Turf\",\"group\":\"\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "THOUGHTFUL WOMAN (3) was good in the future stars series final here over 1400m last start, beaten 1.5 lengths into fifth and hitting the line well on that occasion. She looks ideally suited out to a mile now and can break through. FINALE (5) was good here over 1400m as favourite first up before an unlucky run at Sandown-Hillside. Forgive that, she can win. GREY ICE (7) has been good in two runs back from a spell and her breeding suggests this trip will be ideal. Lightly raced and looks a great chance up to the mile. ELEGANCIA (4) has placed in both runs to date at country level. Suited to this trip now and has some upside. ALMA ROUGE (1) can improve up in trip."
+        },
+        "venue_id": "3c089333-1d52-4525-9bc2-a42eddb2274f",
+        "venue_name": "Pakenham",
+        "venue_state": "VIC",
+        "venue_country": "AUS"
+      },
+      "d8b9c8f7-79cb-4583-b2e1-0a3cb21707bd": {
+        "race_id": "d8b9c8f7-79cb-4583-b2e1-0a3cb21707bd",
+        "race_name": "Grand Park Handicap Pace",
+        "race_number": 8,
+        "meeting_id": "14522bd2-ad1d-4069-82f9-62b2fccc9b91",
+        "meeting_name": "Alexandra Park",
+        "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+        "advertised_start": {
+          "seconds": 1710490500
+        },
+        "race_form": {
+          "distance": 2700,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "1db9cab0-b747-11ea-80cf-6a390f79827e",
+            "name": "Fast",
+            "short_name": "fast"
+          },
+          "track_condition_id": "1db9cab0-b747-11ea-80cf-6a390f79827e",
+          "race_comment": "OLD TOWN ROAD (5) resumes from a spell of 11 weeks after closing off last campaign in good form, the last run being a solid second over 2700m at this track. Boasts a record of two wins from four starts when fresh from a spell. His class will take him a long way. ALTA WISEGUY (4) has had two runs this prep without filling a placing. Added to the sequence last time over 1700m at this track, finishing 10 metres away from the winner in fourth. Has the class to take care of this field. VILLAGE REBEL (2) didn't do a bad job when fifth over 2700m at Cambridge last time out. D J ROCK (1) disappointed last time but is a chance based on a good win over 2200m at Cambridge two runs back. each way value from the good draw.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Alexandra Park\",\"state\":\"NZ\",\"country\":\"NZ\",\"number\":8,\"race_name\":\"Grand Park Handicap Pace\",\"time\":\"2024-03-15T08:15:00Z\",\"class\":\"R60 TO R88 DISCRETIONARY\",\"start_type\":\"Standing\",\"prizemonies\":{\"total_value\":18691},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "OLD TOWN ROAD (5) resumes from a spell of 11 weeks after closing off last campaign in good form, the last run being a solid second over 2700m at this track. Boasts a record of two wins from four starts when fresh from a spell. His class will take him a long way. ALTA WISEGUY (4) has had two runs this prep without filling a placing. Added to the sequence last time over 1700m at this track, finishing 10 metres away from the winner in fourth. Has the class to take care of this field. VILLAGE REBEL (2) didn't do a bad job when fifth over 2700m at Cambridge last time out. D J ROCK (1) disappointed last time but is a chance based on a good win over 2200m at Cambridge two runs back. each way value from the good draw."
+        },
+        "venue_id": "a55c9368-7bb7-450b-a74a-4098bb0e7c52",
+        "venue_name": "Alexandra Park",
+        "venue_state": "NZ",
+        "venue_country": "NZ"
+      },
+      "f6591aae-19cb-475d-a414-dcd4912efcdb": {
+        "race_id": "f6591aae-19cb-475d-a414-dcd4912efcdb",
+        "race_name": "Shamrock Hotel Pace",
+        "race_number": 4,
+        "meeting_id": "064daca9-6c14-40ba-b2dc-0591a257617e",
+        "meeting_name": "Hobart",
+        "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+        "advertised_start": {
+          "seconds": 1710490260
+        },
+        "race_form": {
+          "distance": 2090,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "e59d2021-a879-11e7-99a6-06918c628bb8",
+            "name": "Clear",
+            "short_name": "clear",
+            "icon_uri": "Clear"
+          },
+          "weather_id": "e59d2021-a879-11e7-99a6-06918c628bb8",
+          "race_comment": "SOUTHERN LUCK (7) was out of the money two back at this track. Turned in a better run last time out when second over 2090m at this track, beaten 5.5 metres. The driver has some work to do from this wide starting position. This should be an easier assignment so he is in the right race to find winning form. MONEYS NO ISSUE (4) has been competitive of late and kept the ball rolling last time when 9 metres from the winner in fourth over 2090m at this track. Perfectly placed and is sure to be there at the finish. MAYLEEJAE EAGLE (5) must be considered after he finished third over 2090m at this track a week ago. OUR MIKI DIVA (9) is also in contention although the draw makes her job a bit tougher.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Hobart\",\"state\":\"TAS\",\"country\":\"AUS\",\"number\":4,\"race_name\":\"Shamrock Hotel Pace\",\"time\":\"2024-03-15T08:11:00Z\",\"class\":\"NR 50 to 54\",\"start_type\":\"Mobile\",\"prizemonies\":{\"1st\":3868,\"2nd\":1012,\"3rd\":595,\"4th\":298,\"5th\":179,\"total_value\":5950},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "SOUTHERN LUCK (7) was out of the money two back at this track. Turned in a better run last time out when second over 2090m at this track, beaten 5.5 metres. The driver has some work to do from this wide starting position. This should be an easier assignment so he is in the right race to find winning form. MONEYS NO ISSUE (4) has been competitive of late and kept the ball rolling last time when 9 metres from the winner in fourth over 2090m at this track. Perfectly placed and is sure to be there at the finish. MAYLEEJAE EAGLE (5) must be considered after he finished third over 2090m at this track a week ago. OUR MIKI DIVA (9) is also in contention although the draw makes her job a bit tougher."
+        },
+        "venue_id": "95c5c6e3-4c53-41ea-8706-997b7be82883",
+        "venue_name": "Hobart",
+        "venue_state": "TAS",
+        "venue_country": "AUS"
+      }
+    }
+  },
+  "message": "Next 10 races from each category"
+}
