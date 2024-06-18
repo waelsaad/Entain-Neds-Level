@@ -5,9 +5,9 @@ Thank you for the opportunity of doing this code challenge. I felt like I was Le
 
 Instructions:
 ------------
-Version 14.2 (14C18) Targeting iOS 16.2. I am about to purchase an expensive Apple machine.
+Version 15.3 (15E204a) Targeting iOS 16.2. I am about to purchase an expensive Apple machine.
 
-1- Ensure you have SwiftLint Installed on your machine - use brew install swiftlint
+1- Ensure you have SwiftLint Installed on your machine - use brew install swiftlint.
 2- double click on Neds.xcworkspace
 3- Simply Run the app.
 
